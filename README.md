@@ -1,15 +1,15 @@
 # Blazor-Filemanager-With-Flat-Data
 
 **Repository Description**  
-This repository contains a **Blazor sample** that demonstrates how a **flat data representation** can be integrated into the Syncfusion **Blazor File Manager** component.
+This repository contains a **Blazor sample** that demonstrates how a **flat data representation** can be integrated into the [Blazor File Manager](https://www.syncfusion.com/blazor-components/blazor-file-manager) component.
 
 The sample shows how to manage files and folders using a locally injected `FileManagerService.cs`, enabling file operations such as reading, deleting, and creating folders without relying on a hierarchical file system structure.
 
 ## Project Overview
-The purpose of this project is to help developers understand how the Syncfusion Blazor File Manager can be configured to work with flat data. It provides a reference implementation for handling file actions using in‑memory or service‑driven data sources within a Blazor application.
+The purpose of this project is to help developers understand how the Blazor File Manager can be configured to work with flat data. It provides a reference implementation for handling file actions using in‑memory or service‑driven data sources within a Blazor application.
 
 ## Features
-- Integration of Syncfusion **Blazor File Manager**
+- Integration of **Blazor File Manager**
 - Flat data representation for files and folders
 - Support for basic file operations:
   - Read files and folders
